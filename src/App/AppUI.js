@@ -7,7 +7,9 @@ import { TodosError } from '../TodosError';
 import { EmptyTodos } from '../EmptyTodos';
 import { CreateTodoButton } from '../CreateTodoButton';
 import { TodoContext } from '../TodoContext';
+import { TodoForm } from '../TodoForm';
 import React from 'react';
+import { Modal } from '../Modal';
 
 function AppUI() {
   const {
@@ -50,7 +52,7 @@ function AppUI() {
 
       {openModal && (
         <Modal>
-          Add ToDos
+          <TodoForm/>
         </Modal>
       )}
     </>
