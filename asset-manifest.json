@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/danhergir/todo-list/static/css/main.1305e510.css",
+    "main.js": "/danhergir/todo-list/static/js/main.ac5b3765.js",
+    "index.html": "/danhergir/todo-list/index.html",
+    "static/media/delete.svg": "/danhergir/todo-list/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/danhergir/todo-list/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.1305e510.css.map": "/danhergir/todo-list/static/css/main.1305e510.css.map",
+    "main.ac5b3765.js.map": "/danhergir/todo-list/static/js/main.ac5b3765.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1305e510.css",
+    "static/js/main.ac5b3765.js"
+  ]
+}
